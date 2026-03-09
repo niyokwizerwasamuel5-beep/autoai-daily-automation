@@ -1,0 +1,12 @@
+# Security-related files
+
+# Log files
+*.log
+
+# Sensitive information
+*.env
+*.config
+
+# Temporary files
+.DS_Store
+Thumbs.db
